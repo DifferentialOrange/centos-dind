@@ -1,4 +1,4 @@
-# Plain CentOS 7 docker-in-docker container
+# Plain CentOS 7 docker-in-docker image
 
 Based on [tarantool/cartridge-cli](https://github.com/tarantool/cartridge-cli) test Docker images.
 
